@@ -40,7 +40,7 @@
 ### 安装与使用
 
 1. 在浏览器中安装 [Tampermonkey](https://www.tampermonkey.net/) 扩展。
-2. 新建脚本，将 `bilibili-frame-and-screenshot.user.js` 的内容完整粘贴并保存。
+2. 点击[此处直接安装脚本](https://raw.githubusercontent.com/xuiux/Bilibili-YouTube-FrameSub/main/bilibili_frame_and_screenshot_user.js)，并在 Tampermonkey 提示时确认安装。
 3. 打开任意 Bilibili 或 YouTube 视频页面即可使用（首次在 B 站拉取字幕时，若 Tampermonkey 提示跨域请求 `aisubtitle.hdslb.com`，请点击「总是允许」）。
 
 ---
@@ -83,7 +83,7 @@ A lightweight, high-performance Tampermonkey userscript for **Bilibili** and **Y
 ### Installation
 
 1. Install the [Tampermonkey](https://www.tampermonkey.net/) browser extension.
-2. Create a new userscript, paste the contents of `bilibili-frame-and-screenshot.user.js`, and save.
+2. [Click here to install the userscript](https://raw.githubusercontent.com/xuiux/Bilibili-YouTube-FrameSub/main/bilibili_frame_and_screenshot_user.js) and confirm the installation in Tampermonkey.
 3. Open any Bilibili or YouTube video page. (On first subtitle fetch on Bilibili, allow the cross-origin request to `aisubtitle.hdslb.com` when prompted by Tampermonkey.)
 
 ---
